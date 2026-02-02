@@ -14,7 +14,7 @@ Olá! Eu sou João Guilhrme, **Técnico em Informática** pelo **CTA - Centro de
 Aqui estão alguns dos projetos que estou desenvolvendo:
 
 1. **[cripto](link-do-repositorio)** - Uma ferramenta para criptografar mensagens unasdo criptografia simétrica.
-2. **[port sacan](link-do-repositorio)** - Um scanner simples para encontrar portas abertas.
+2. **[port scan](link-do-repositorio)** - Um scanner simples para encontrar portas abertas.
 
 ## Como colaborar
 
