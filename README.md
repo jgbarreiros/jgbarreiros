@@ -1,6 +1,6 @@
 # Bem-vindo ao meu GitHub! :snake: :lock:
 
-Olá! Eu sou [Seu Nome], **Técnico em Informática** pelo **CTA - Centro de Tecnologia Aplicada** e atualmente estou cursando **Engenharia de Software** (Bacharelado). Tenho uma paixão por **programação em Python** com foco em **segurança da informação**. Neste repositório, você encontrará projetos relacionados a **cibersegurança**, **automação** e **desenvolvimento de software seguro**.
+Olá! Eu sou João Guilhrme, **Técnico em Informática** pelo **CTA - Centro de Tecnologia Aplicada** e atualmente estou cursando **Engenharia de Software** (Bacharelado). Tenho uma paixão por **programação em Python** com foco em **segurança da informação**. Neste repositório, você encontrará projetos relacionados a **cibersegurança**, **automação** e **desenvolvimento de software seguro**.
 
 ## Sobre mim
 
@@ -13,9 +13,8 @@ Olá! Eu sou [Seu Nome], **Técnico em Informática** pelo **CTA - Centro de Tec
 
 Aqui estão alguns dos projetos que estou desenvolvendo:
 
-1. **[Ferramenta X](link-do-repositorio)** - Uma ferramenta para detectar falhas de segurança em sistemas web.
-2. **[Scanner de Vulnerabilidades](link-do-repositorio)** - Um scanner simples para encontrar vulnerabilidades conhecidas em redes.
-3. **[Explorador de SQL Injection](link-do-repositorio)** - Script para aprender e testar SQL Injection de forma ética e controlada.
+1. **[cripto](link-do-repositorio)** - Uma ferramenta para criptografar mensagens unasdo criptografia simétrica.
+2. **[port sacan](link-do-repositorio)** - Um scanner simples para encontrar portas abertas.
 
 ## Como colaborar
 
@@ -30,7 +29,7 @@ Se você tem interesse em segurança e gostaria de colaborar em projetos ou disc
 
 ## Contato
 
-Você pode me encontrar no [LinkedIn](seu-linkedin) ou me mandar uma mensagem direta por aqui.
+Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-guilherme-fonseca-barreiros-506b62213?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) ou me mandar uma mensagem direta por aqui.
 
 Estou sempre disposto a aprender mais e compartilhar conhecimentos sobre cibersegurança e Python.
 
