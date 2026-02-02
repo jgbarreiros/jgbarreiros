@@ -1,4 +1,4 @@
-# Bem-vindo ao meu GitHub! :snake: :lock:
+# Bem-vindo ao meu GitHub! :python: :lock:
 
 Olá! Eu sou João Guilhrme, **Técnico em Informática** pelo **CTA - Centro de Tecnologia Aplicada** e atualmente estou cursando **Engenharia de Software** (Bacharelado). Tenho uma paixão por **programação em Python** com foco em **segurança da informação**. Neste repositório, você encontrará projetos relacionados a **cibersegurança**, **automação** e **desenvolvimento de software seguro**.
 
